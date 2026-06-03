@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://favicon.id/animetsu.net" width="150" alt="Animetsu App Icon">
 </p>
+
 # Unofficial Animetsu App
 
 A modern Android application that provides a mobile-friendly experience for accessing the Animetsu website with improved usability, responsive design, and a streamlined interface.
