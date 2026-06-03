@@ -1,5 +1,7 @@
 # Animetsu-App-Unofficial-
-![App Icon](https://favicon.id/animetsu.net)
+<p align="center">
+  <img src="https://favicon.id/animetsu.net" width="150" alt="Animetsu App Icon">
+</p>
 # Unofficial Animetsu App
 
 A modern Android application that provides a mobile-friendly experience for accessing the Animetsu website with improved usability, responsive design, and a streamlined interface.
@@ -16,9 +18,9 @@ A modern Android application that provides a mobile-friendly experience for acce
 - Easy access to anime content available on the source website
 
 # Screenshots
-
 <p align="center">
-
+  
+![App Icon](https://github.com/TarunCookinCodes/Animetsu-App-Unofficial-/blob/main/Screenshots.png)
 # How To Download
 
 1. Download the latest APK from the Releases section.
